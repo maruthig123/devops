@@ -1,0 +1,2 @@
+ This is to check the checkout command
+Second line testing on remote repository
